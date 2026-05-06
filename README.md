@@ -109,3 +109,8 @@ The task still runs Git under the hood, but you can trigger it from VS Code with
 ## 📦 Dependencies
 
 None.
+
+## 🔁 Used By
+
+- [PentaTile](https://github.com/Shilo/PentaTile) - uses VirtuCore as a sibling subtree at `addons/virtucore`.
+- [VirtuMap](https://github.com/Shilo/VirtuMap) - uses VirtuCore as a sibling subtree at `addons/virtucore`.
